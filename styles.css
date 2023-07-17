@@ -1,0 +1,50 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #22A699;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'calibr', bold;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #000d09;
+}
+
+p {
+  font-size: 2rem;
+  color: #000806;
+  font-family: 'caliber', bold;
+}
+
+img {
+  width: 80%;
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+}
+footer {
+
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'caliber', cursive;
+  
+
+}
